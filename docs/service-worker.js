@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.de9d5f2fadf2e807ebf73de4a6416e01.js"
+  "/precache-manifest.6cfe1cf0e94502ac592db28a13a3795a.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "kaspars-laboratory"});
